@@ -1,3 +1,9 @@
+2.2.0.0 (2016-12-06)
+
+* Initial support for extended tweets. Known to be buggy with media entities.
+* Fixed non-primary mouse button clicks in Chrome 55+.
+* Updated Twemoji library.
+
 2.1.0.3 (2015-08-01)
 
 * Amputated (there's no better word for it) identi.ca support
