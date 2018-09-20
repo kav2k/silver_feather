@@ -1,3 +1,9 @@
+# This extension will no longer be maintained and this repo will be archived
+
+This was always more of a personal hack to keep Silver Bird usable for my own use. With Twitter radically switching APIs, I'm not interested in trying to rebuild the engine from scratch (if it's at all possible with the new APIs!).
+
+However, I will leave this up if someone is interested in changes made since the fork.
+
 ## Silver Feather ##
 
 1. What is it?
